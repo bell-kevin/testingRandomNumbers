@@ -1,5 +1,5 @@
 # TestingRandomNumbersProject
-SDEV 1060 Project. 
+SDEV 1060 Project 
 
 A senior developer is working on a project and has asked you to do some testing for him. One of the methods in his project creates a random number between supplied minimum and maximum values. He has written the method that will create that random number, run it a few times, and thinks it looks good, but just to make sure, he has asked you to thoroughly test the method. That method looks like this: 
 
