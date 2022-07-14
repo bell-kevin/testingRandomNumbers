@@ -16,7 +16,7 @@ public class randomNumbersJUnitTest {
         int result;
         //act
         for (int i = 1; i < 5000; i++) {
-            //package.Class.method();
+            //variable = package.Class.method();
             result = testingrandomnumbers.TestingRandomNumbers.getRN(n1, n2);
             //assert
             assertTrue("random number " + result + " is not in range", result >= n1 && result <= n2);
