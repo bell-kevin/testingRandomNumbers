@@ -99,7 +99,7 @@ it would create a random number with the smallest possible number of 20 (the sta
 
 (int) rng.Next( 30 - 20 + 1, 20)  
 
-which becomes:  
+which becomes  
 
 (int) rng.Next(11, 20)  
 
