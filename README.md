@@ -59,7 +59,9 @@ If you have a bunch of assertions, if any one fails, none of the following ones 
 
 Run the test 200 times in a loop, to test the method multiple times. When you run the test, it should fail, there is an error in that code. See the discussion below to figure out the problem, fix it, and test it again. Keep working on it until all the tests are successful. Then run the test 5,000 times, to make sure it works as it should.  
 
-Take a screenshot of your fixed code for the method, of your test code, and of the last successful test that ran 5,000 times.   Submission: screenshots specified and the root folder for the project     
+Take a screenshot of your fixed code for the method, of your test code, and of the last successful test that ran 5,000 times.   
+
+Submission: screenshots specified and the root folder for the project     
 
 Discussion  
 
