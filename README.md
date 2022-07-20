@@ -79,7 +79,7 @@ Once the math inside the inner parentheses is done, we can drop those parenthese
 
 rng.nextInt ( num + min )  
 
-which becomes   
+which becomes:  
 
 rng.nextInt (someNumber)  
 
