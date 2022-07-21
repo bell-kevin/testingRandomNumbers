@@ -61,7 +61,7 @@ Run the test 200 times in a loop, to test the method multiple times. When you ru
 
 Take a screenshot of your fixed code for the method, of your test code, and of the last successful test that ran 5,000 times.   
 
-Submission: screenshots specified and the root folder for the project    
+Submission: screenshots specified and the root folder for the project.    
 
 Discussion  
 
