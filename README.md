@@ -83,10 +83,9 @@ which becomes:
 
 rng.nextInt (someNumber)  
 
-There is no term for the starting number to be added to this random number -- it was used inside of the parentheses for the parameter for rng.nextInt().   
+There is no term for the starting number to be added to this random number -- it was used inside of the parentheses for the parameter for rng.nextInt(). 
 
 In the formula above, the number of numbers, inside the parentheses that follow rng.nextInt, does more than provide the number of numbers, it also adds the min or starting point to that number of numbers. If the random number generator is supposed to use 10 numbers that start with 20, that would be the numbers 20, 21, 22, 23, ... 29. The formula above says that the number of numbers is that 10 plus the min value of 20, so the number of numbers is now 30. And there is no starting value, so the random number generator will create a number from 0 to 30. Thus it is possible to get numbers that are less than the intended starting point of 20, and one higher than the intended max value of 29.  
-
 
 How do you fix that pattern so the parameter for rng.nextInt() has only the number of numbers in it, and the starting value is separate, added to that random number?  
 
