@@ -71,7 +71,7 @@ In Java: The formula for generating random numbers is rng.nextInt(number of numb
 
 rng.nextInt (  (max - min + 1) + min )  
 
-If we resolve some of that code, do the math in the inner parentheses, it becomes  
+If we resolve some of that code, do the math in the inner parentheses, it becomes: 
 
 rng.nextInt (  (num) + min )  
 
