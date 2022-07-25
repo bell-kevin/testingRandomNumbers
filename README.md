@@ -75,7 +75,7 @@ If we resolve some of that code, do the math in the inner parentheses, it become
 
 rng.nextInt (  (num) + min )  
 
-Once the math inside the inner parentheses is done, we can drop those parentheses, and this becomes:  
+Once the math inside the inner parentheses is done, we can drop those parentheses, and this becomes 
 
 rng.nextInt ( num + min )  
 
