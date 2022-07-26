@@ -1,5 +1,5 @@
 # TestingRandomNumbersProject
-SDEV 1060 Project 
+S DEV 1060 Project 
 
 A senior developer is working on a project and has asked you to do some testing for him. One of the methods in his project creates a random number between supplied minimum and maximum values. He has written the method that will create that random number, run it a few times, and thinks it looks good, but just to make sure, he has asked you to thoroughly test the method. That method looks like this: 
 
@@ -124,10 +124,10 @@ some of the reasons why GitHub is not a good place to host FOSS projects.
 
 If you are a contributor who personally has already quit using GitHub, please
 [check this resource](INSERT_LINK) for how to send us contributions without
-using GitHub directly.
+using GitHub directly
 
 Any use of this project's code by GitHub Copilot, past or present, is done
 without our permission.  We do not consent to GitHub's use of this project's
-code in Copilot.
+code in Copilot
 
 ![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
