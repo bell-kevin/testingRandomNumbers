@@ -97,7 +97,7 @@ The rng.Next() method always returns a double, so it must have the cast to an in
 
 (int) rng.Next(20, 30)  
 
-it would create a random number with the smallest possible number of 20 (the starting point) and the highest number will be 29, because it cannot go to 30. That value of 30 is the next integer after the highest one allowed. So this pattern also uses min and max values, but the shift and scope are represented differently. If min is 20 and max is 30, look at how the code provided works out:  (int) rng.Next(max - min + 1, min)  becomes   
+it would create a random number with the smallest possible number of 20 (the starting point) and the highest number will be 29, because it cannot go to 30. That value of 30 is the next integer after the highest one allowed. So this pattern also uses min and max values, but the shift and scope are represented differently. If min is 20 and max is 30, look at how the code provided works out:  (int) rng.Next(max - min + 1, min)  becomes: 
 
 (int) rng.Next( 30 - 20 + 1, 20)  
 
