@@ -89,7 +89,7 @@ In the formula above, the number of numbers, inside the parentheses that follow 
 
 How do you fix that pattern so the parameter for rng.nextInt() has only the number of numbers in it, and the starting value is separate, added to that random number?  
 
-In C#: The pattern for random numbers in C# is a little different from the pattern for Java. They are so similar in so much code, but there is a difference for creating random numbers. There are several patterns, but the one intended here is:  
+In C#: The pattern for random numbers in C# is a little different from the pattern for Java. They are so similar in so much code, but there is a difference for creating random numbers. There are several patterns, but the one intended here is  
 
 (int) rng.Next(starting value, ending value + 1)  
 
