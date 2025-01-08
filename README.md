@@ -131,3 +131,5 @@ without our permission.  We do not consent to GitHub's use of this project's
 code in Copilot
 
 ![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
+
+## HOW TO CONTRIBUTE
